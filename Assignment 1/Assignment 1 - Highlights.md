@@ -1,6 +1,6 @@
 Assignment #1
 
-Date: January 15, 2025
+Date: January 16, 2025
 
 Goals: 
 * Set up the MyCookBookProject in Visual Studio Code
