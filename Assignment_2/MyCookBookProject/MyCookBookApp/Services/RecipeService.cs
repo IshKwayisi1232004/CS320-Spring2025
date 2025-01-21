@@ -12,13 +12,13 @@ namespace MyCookBookApp.Services
         {
             _httpClient = httpClient;
         }
-        public async Task<List<Recipe>> GetRecipesAsync()
+        public async Task<List<Recipe>?> GetRecipesAsync()
         {
             var response = await
             _httpClient.GetAsync("http://localhost:<port>/api/recipe");
             response.EnsureSuccessStatusCode();
             var json = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<List<Recipe>>(json);
+            return JsonConvert.DeserializeObject<List<Recipe>?>(json);
         }
     }
 }

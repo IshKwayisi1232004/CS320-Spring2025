@@ -2,7 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddHttpClient<RecipeService>();
+builder.Services.AddHttpClient<MyCookBookApp.Services.RecipeService>();
+//builder.Services.AddHttpClient<RecipeService>();
 
 var app = builder.Build();
 

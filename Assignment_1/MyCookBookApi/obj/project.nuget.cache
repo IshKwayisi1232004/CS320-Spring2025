@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Gz4wG4RarEc=",
+  "dgSpecHash": "X0oGbIsIS30=",
   "success": true,
   "projectFilePath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_1\\MyCookBookApi\\MyCookBookApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\spyro\\.nuget\\packages\\awssdk.core\\3.7.12\\awssdk.core.3.7.12.nupkg.sha512",
+    "C:\\Users\\spyro\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\spyro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "C:\\Users\\spyro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
