@@ -15,7 +15,7 @@ namespace MyCookBookApp.Services
         public async Task<List<Recipe>?> GetRecipesAsync()
         {
             var response = await
-            _httpClient.GetAsync("http://localhost:<port>/api/recipe");
+            _httpClient.GetAsync("http://localhost:5044/api/recipe");
             response.EnsureSuccessStatusCode();
             var json = await response.Content.ReadAsStringAsync();
             return JsonConvert.DeserializeObject<List<Recipe>?>(json);
