@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2x/8/sp6po=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_2\\MyCookBookProject\\MyCookBookApi\\MyCookBookApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spyro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\spyro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\spyro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
