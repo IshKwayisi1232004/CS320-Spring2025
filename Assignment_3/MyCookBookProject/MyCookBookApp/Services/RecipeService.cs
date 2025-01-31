@@ -35,7 +35,7 @@ namespace MyCookBookApp.Services
             response.EnsureSuccessStatusCode();
 
             var responseString = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<List<Recipe>>(responseString);
+            return JsonConvert.DeserializeObject<List<Recipe>?>(responseString);
         }
     }
 }

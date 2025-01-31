@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdVKs91DZ9s=",
+  "dgSpecHash": "ZM9RsYhfwbw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_2\\MyCookBookProject\\MyCookBookApp\\MyCookBookApp.csproj",
+  "projectFilePath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_3\\MyCookBookProject\\MyCookBookApp\\MyCookBookApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spyro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
