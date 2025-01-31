@@ -99,3 +99,4 @@ C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_2\MyCookBookPr
 C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_2\MyCookBookProject\MyCookBookApp\obj\Debug\net9.0\MyCookBookApp.csproj.AssemblyReference.cache
 C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_2\MyCookBookProject\MyCookBookApp\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_2\MyCookBookProject\MyCookBookApp\obj\Debug\net9.0\MyCookBo.D39A3E8C.Up2Date
+C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_2\MyCookBookProject\MyCookBookApp\obj\Debug\net9.0\compressed\01fsj15876-dcpn1yequ1.gz

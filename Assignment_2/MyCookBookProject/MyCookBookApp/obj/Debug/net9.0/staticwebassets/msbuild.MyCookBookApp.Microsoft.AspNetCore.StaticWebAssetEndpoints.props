@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MyCookBookApp/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Danb9CUJ00kfFntARCcIvjK9ufvxKVM2XSSt/3rc7vc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"244192"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Danb9CUJ00kfFntARCcIvjK9ufvxKVM2XSSt/3rc7vc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 19:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MyCookBookApp/css/bootstrap.min.dcpn1yequ1.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dcpn1yequ1"},{"Name":"integrity","Value":"sha256-Danb9CUJ00kfFntARCcIvjK9ufvxKVM2XSSt/3rc7vc="},{"Name":"label","Value":"_content/MyCookBookApp/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"244192"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Danb9CUJ00kfFntARCcIvjK9ufvxKVM2XSSt/3rc7vc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 19:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MyCookBookApp/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
