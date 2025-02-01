@@ -974,11 +974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_2\\MyCookBookProject\\MyCookBookApp.Tests\\MyCookBookApp.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_3\\MyCookBookProject\\MyCookBookApp.Tests\\MyCookBookApp.Tests.csproj",
       "projectName": "MyCookBookApp.Tests",
-      "projectPath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_2\\MyCookBookProject\\MyCookBookApp.Tests\\MyCookBookApp.Tests.csproj",
+      "projectPath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_3\\MyCookBookProject\\MyCookBookApp.Tests\\MyCookBookApp.Tests.csproj",
       "packagesPath": "C:\\Users\\spyro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_2\\MyCookBookProject\\MyCookBookApp.Tests\\obj\\",
+      "outputPath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_3\\MyCookBookProject\\MyCookBookApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -999,8 +999,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_2\\MyCookBookProject\\MyCookBookApp\\MyCookBookApp.csproj": {
-              "projectPath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_2\\MyCookBookProject\\MyCookBookApp\\MyCookBookApp.csproj"
+            "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_3\\MyCookBookProject\\MyCookBookApp\\MyCookBookApp.csproj": {
+              "projectPath": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_3\\MyCookBookProject\\MyCookBookApp\\MyCookBookApp.csproj"
             }
           }
         }
