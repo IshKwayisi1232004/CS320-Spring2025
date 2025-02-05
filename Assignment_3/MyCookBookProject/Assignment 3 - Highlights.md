@@ -3,15 +3,13 @@ Assignment #3
 Date: February 7, 2025
 
 Goals: 
-* Organized the workspace
-* Integrated xUnit Testing Framework
-* Connected both Api and MVC layers dynamically 
-* Utilized bootstrap to make the application design look more appealing
-* Static Tests added within the Api and MVC layers
-
-Total Test Case Count: 2
-* 1 for Api
-* 1 for App
+* Created a RecipeSearchRequest.cs file that handles query requests
+* Created a static list in the RecipeController.cs file, along with an endpoint for the functionality of the search
+* Tested the API in Postman 
+* Updated the Recipe.cs to call the search endpoint 
+* Created a method that calls the API and passes the search results to the Index.cshtml view within the front-end RecipeController
+* Updated Recipe >Index.cshtml to include the search bar and the results based on the query
+* Added routing in Program.cs to make browser requests
 
 Link to GitHub files: 
-https://github.com/IshKwayisi1232004/CS320-Spring2025/tree/777e216ede27721a5080a0438f2f0418759a4402/Assignment_2
+https://github.com/IshKwayisi1232004/CS320-Spring2025/tree/main/Assignment_3
