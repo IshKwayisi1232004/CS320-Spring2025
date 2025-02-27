@@ -65,3 +65,5 @@ C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_1\MyCookBookAp
 C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_1\MyCookBookApi\obj\Debug\net9.0\MyCookBookApi.pdb
 C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_1\MyCookBookApi\obj\Debug\net9.0\MyCookBookApi.genruntimeconfig.cache
 C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_1\MyCookBookApi\obj\Debug\net9.0\ref\MyCookBookApi.dll
+C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_1\MyCookBookApi\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\spyro\OneDrive\Desktop\CS320\CS320-Spring2025\Assignment_1\MyCookBookApi\bin\Debug\net9.0\Dapper.dll

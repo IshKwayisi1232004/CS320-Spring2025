@@ -1,0 +1,30 @@
+﻿@model List<MyCookBookApp.Models.Recipe>
+
+@{
+    ViewData["Title"] = "HomePage";
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center mb-4">Welcome to MyCookBook</h1>
+    <div class="text-center">
+        <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <ul class="list-group">
+                @if (Model != null && Model.Any())
+                {
+                    @foreach (var recipe in Model)
+                    {
+                        <li class="list-group-item">@recipe.Name</li>
+                    }
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+    
+
