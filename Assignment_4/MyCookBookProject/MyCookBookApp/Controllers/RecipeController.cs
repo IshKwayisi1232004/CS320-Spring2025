@@ -43,7 +43,7 @@ namespace MyCookBookApp.Controllers
         }
         // Search for Recipes (POST /Recipe/Search)
         [HttpPost("Search")]
-        public async Task<IActionResult> SearchRecipes([FromBody] RecipeSearchRequestsearchRequest)
+        public async Task<IActionResult> SearchRecipes([FromBody] RecipeSearchRequest searchRequest)
         {
             // searchRequest.Categories = new List<CategoryType>();
             var recipes = await _recipeService.SearchRecipesAsync(searchRequest);
