@@ -16,7 +16,7 @@ namespace MyCookBookApp.Services
             _httpClient = httpClient;
             _baseUrl = configuration["ApiSettings:BaseUrl"];
         }
-        public async Task<List<?Recipe>> GetRecipesAsync()
+        public async Task<List<Recipe>> GetRecipesAsync()
         {
             var response = await _httpClient.GetAsync($"{_baseUrl}/recipe");
             response.EnsureSuccessStatusCode();

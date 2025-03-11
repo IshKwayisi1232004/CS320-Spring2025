@@ -1,9 +1,9 @@
 using System.Text.Json.Serialization;
 
-using MyCookBookApi.Models;
-using MyCookBookApi.Services;
+using MyCookBookApp.Models;
+using MyCookBookApp.Services;
 
-namespace MyCookBookApi.Models{
+namespace MyCookBookApp.Models{
     public class Recipe{
         public required string RecipeId { get; set; } // Auto-generated unique ID
         public required string Name{get; set;}

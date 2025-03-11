@@ -1,4 +1,4 @@
-namespace MyCookBookApi.Models{
+namespace MyCookBookApp.Models{
     public class RecipeMedia
     {
         public required string Url { get; set; } // Firebase Storage URL

@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             //Update button text to display selected categories
             document.getElementById("categoryDropdown").innerText =
-                selectedCategories.length > 0 ? selectedCategories.map(id => 
+                selectedCategories.length > 0 ? selectedCategories.map(id =>
                     document.querySelector(`[data-value="${id}"]`).innerText).join(", ") : "SelectCategories";
             //Update hidden input with selected categories
             document.getElementById("categories").value = JSON.stringify(selectedCategories);
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("addRecipeForm").reset();
         $('#addRecipeModal').modal('show');
     });
-    
+
     // Modify Save Recipe function to include selected numeric categories
     document.getElementById("saveRecipe").addEventListener("click", function (event) {
         event.preventDefault();
@@ -55,9 +55,9 @@ document.addEventListener("DOMContentLoaded", function () {
             name: document.getElementById("recipeName").value.trim(),
             tagLine: document.getElementById("tagLine").value.trim(),
             summary: document.getElementById("summary").value.trim(),
-            ingredients: document.getElementById("ingredients").value.split(",").map(i=> i.trim()),
+            ingredients: document.getElementById("ingredients").value.split(",").map(i => i.trim()),
             instructions:
-        document.getElementById("instructions").value.split("\n").map(i => i.trim()),
+                document.getElementById("instructions").value.split("\n").map(i => i.trim()),
             //Get selected categories as numbers
             categories: JSON.parse(document.getElementById("categories").value || "[]"),
             media: []
@@ -71,28 +71,28 @@ document.addEventListener("DOMContentLoaded", function () {
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(recipe)
         })
-        .then(response => response.json())
-        .then(data => {
-            if (data.success) {
-                console.log("Recipe added successfully!");
-                // Close the modal
-                let modal = new bootstrap.Modal(document.getElementById('addRecipeModal'));
-                modal.hide();
-            
-                // Refresh the page after a slight delay
-                setTimeout(() => {
-                    location.reload();
-            }, 500); // 500ms delay to ensure UI updates smoothly
-            } else {
-            alert("Failed to add recipe: " + data.message);
-            }
-        })
-        .catch(error => console.error("Error adding recipe:", error));
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    console.log("Recipe added successfully!");
+                    // Close the modal
+                    let modal = new bootstrap.Modal(document.getElementById('addRecipeModal'));
+                    modal.hide();
+
+                    // Refresh the page after a slight delay
+                    setTimeout(() => {
+                        location.reload();
+                    }, 500); // 500ms delay to ensure UI updates smoothly
+                } else {
+                    alert("Failed to add recipe: " + data.message);
+                }
+            })
+            .catch(error => console.error("Error adding recipe:", error));
     });
     // Fetch all recipes
     function fetchRecipes() {
         console.log("Fetching all recipes...");
-        
+
         fetch(`${BASE_URL}/GetAll`)
             .then(response => response.json())
             .then(recipes => {
@@ -108,28 +108,28 @@ document.addEventListener("DOMContentLoaded", function () {
             fetchRecipes();
             return;
         }
-        
+
         let searchRequest = { keyword: keyword, categories: [] };
-        
+
         fetch(`${BASE_URL}/Search`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(searchRequest)
         })
-        .then(response => response.json())
-        .then(recipes => {
-            displayRecipes(recipes);
-        })
-        .catch(error => console.error("Search error:", error));
+            .then(response => response.json())
+            .then(recipes => {
+                displayRecipes(recipes);
+            })
+            .catch(error => console.error("Search error:", error));
     };
-    
+
     // Handle Enter key press for search
     window.handleEnter = function (event) {
         if (event.key === "Enter") {
             searchRecipes();
         }
-    };  
-    
+    };
+
     // Show or hide the clear search button
     window.toggleClearButton = function () {
         let searchInput = document.getElementById("searchInput");
@@ -148,10 +148,10 @@ document.addEventListener("DOMContentLoaded", function () {
     function displayRecipes(recipes) {
         let cardContainer = document.getElementById("recipeCards");
         cardContainer.innerHTML = "";
-    
+
         recipes.forEach(recipe => {
             let imageUrl = recipe.media && recipe.media.length > 0 ? recipe.media[0].url : "placeholder.jpg";
-    
+
             // let categories = recipe.categories ? recipe.categories.join(" | ") : "N/A";
 
             // Convert category numbers to text labels
