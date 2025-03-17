@@ -1,3 +1,4 @@
+<input type="hidden" id="apiBaseUrl" value="@Url.Content("~/api")" />
 @model List<MyCookBookApp.Models.Recipe>
 
 @{
@@ -39,6 +40,7 @@ onclick="searchRecipes()">Search</button>
 
 <!-- Include Modals -->
 @Html.Partial("_AddRecipeModal")
+@Html.Partial("_EditRecipeModal")
 
 <!-- Ensure script is at the end for proper loading -->
 <script src="/js/recipe.js" asp-append-version="true"></script>
