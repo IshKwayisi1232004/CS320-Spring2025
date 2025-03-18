@@ -75,5 +75,17 @@ namespace MyCookBookApp.Controllers
             bool updated = await _recipeService.UpdateRecipeAsync(recipe);
             return Json(new { success = updated, message = updated ? "Recipe updated successfully" : "Failed to update recipe" });
         }
+
+        // Delete a Recipe (DELETE /Recipe/Delete/{id})
+        [HttpDelete("Delete/{id}")]
+        public async Task<IActionResult> DeleteRecipe(string id)
+        {
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                return BadRequest(new { success = false, message = "Invalid recipe ID"});
+            }
+            bool deleted = await _recipeService.DeleteRecipeAsync(id);
+            return Json(new { success = deleted, message = deleted ? "Recipe deleted successfully" : "Failed to delete recipe" });
+        }
     }
 }

@@ -168,6 +168,9 @@ document.addEventListener("DOMContentLoaded", function () {
                             <div>
                                 <button class="btn btn-warning btn-sm" onclick="editRecipe('${recipe.recipeId}')">Edit</button>
                             </div>
+                            <div>
+                                <button class="btn btn-danger btn-sm"onclick="deleteRecipe('${recipe.recipeId}')">Delete</button>
+                            </div>
                         </div>
                         <div class="row mt-2">
                             <div class="col-md-6">
@@ -327,5 +330,22 @@ document.addEventListener("DOMContentLoaded", function () {
             console.error("Error updating recipe:", error);
             alert("Failed to update recipe: " + error.message);
         });
-    };        
+    };
+    
+    // Delete Recipe
+    window.deleteRecipe = function (recipeId) {
+        if (!confirm("Are you sure you want to delete this recipe?")) return;
+        
+        fetch(`${BASE_URL}/Delete/${recipeId}`, {method: "DELETE"})
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                fetchRecipes();
+            } 
+            else {
+                alert("Failed to delete recipe: " + data.message);
+            }
+        })
+        .catch(error => console.error("Error deleting recipe:", error));
+    };
 });
