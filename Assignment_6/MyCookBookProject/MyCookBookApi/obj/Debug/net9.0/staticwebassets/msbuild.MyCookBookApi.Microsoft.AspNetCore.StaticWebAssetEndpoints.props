@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MyCookBookApi/mycookbookappdb-2025-firebase.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookappdb-2025-firebase.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2396"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 22:31:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MyCookBookApi/mycookbookappdb-2025-firebase.mgrvi79w6f.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookappdb-2025-firebase.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mgrvi79w6f"},{"Name":"integrity","Value":"sha256-xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ="},{"Name":"label","Value":"_content/MyCookBookApi/mycookbookappdb-2025-firebase.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2396"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 22:31:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
