@@ -69,6 +69,5 @@ namespace MyCookBookApp.Services
             var response = await _httpClient.DeleteAsync($"{_baseUrl}/recipe/{id}");
             return response.IsSuccessStatusCode;
         }
-        ////
     }
 }
