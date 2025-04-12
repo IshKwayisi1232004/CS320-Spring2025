@@ -22,6 +22,8 @@ namespace MyCookBookApi.Models{
         [FirestoreProperty(ConverterType = typeof(RecipeMediaConverter))]
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public List<RecipeMedia>? Media { get; set; } = new List<RecipeMedia>();
-        public Recipe() {}
+
+        //public bool IsValid()
+        //public Recipe() {}
     }
 }
