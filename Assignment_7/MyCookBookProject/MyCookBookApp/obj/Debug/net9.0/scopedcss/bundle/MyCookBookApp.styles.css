@@ -59,12 +59,13 @@ button.accept-policy[b-buyr76sqbf] {
   display: block;
 }
 
-header[b-buyr76sqbf]{
-  background-color: #000000;
+.navbar[b-buyr76sqbf] {
+  background-color: #57ff86 !important;
 }
 
-.navbar[b-buyr76sqbf] {
-  background-color: #000000 !important;
+.custom-navbar .nav-link[b-buyr76sqbf] {
+  color: #ffffff !important;
+
 }
 
 .footer[b-buyr76sqbf] {

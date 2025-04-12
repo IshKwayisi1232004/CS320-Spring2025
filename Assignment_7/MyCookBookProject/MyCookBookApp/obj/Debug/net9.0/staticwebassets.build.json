@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4P40BNzb7Yfuk/MsF1Ksc/u6Q3TWZNFWdsY0froY1fs=",
+  "Hash": "veRzYbeMkZ6nLhRcb2eUytng5C0IdsdRYxIU2LVE22I=",
   "Source": "MyCookBookApp",
   "BasePath": "_content/MyCookBookApp",
   "Mode": "Default",
@@ -395,12 +395,12 @@
       "OriginalItemSpec": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\wwwroot\\js\\recipe.js"
     },
     {
-      "Identity": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-76hx9y59go.gz",
+      "Identity": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-o8q0bibfkh.gz",
       "SourceId": "MyCookBookApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyCookBookApp",
-      "RelativePath": "MyCookBookApp#[.{fingerprint=76hx9y59go}]?.styles.css.gz",
+      "RelativePath": "MyCookBookApp#[.{fingerprint=o8q0bibfkh}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -409,8 +409,8 @@
       "RelatedAsset": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyCookBookApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "65391bbclq",
-      "Integrity": "1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=",
+      "Fingerprint": "9z4ez05iwd",
+      "Integrity": "teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyCookBookApp.styles.css"
@@ -836,12 +836,12 @@
       "OriginalItemSpec": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-76hx9y59go.gz",
+      "Identity": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-o8q0bibfkh.gz",
       "SourceId": "MyCookBookApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyCookBookApp",
-      "RelativePath": "MyCookBookApp#[.{fingerprint=76hx9y59go}]!.bundle.scp.css.gz",
+      "RelativePath": "MyCookBookApp#[.{fingerprint=o8q0bibfkh}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyCookBookApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "65391bbclq",
-      "Integrity": "1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=",
+      "Fingerprint": "9z4ez05iwd",
+      "Integrity": "teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyCookBookApp.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "76hx9y59go",
-      "Integrity": "0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=",
+      "Fingerprint": "o8q0bibfkh",
+      "Integrity": "KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyCookBookApp.styles.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "76hx9y59go",
-      "Integrity": "0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=",
+      "Fingerprint": "o8q0bibfkh",
+      "Integrity": "KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyCookBookApp.bundle.scp.css"
@@ -21966,13 +21966,13 @@
       ]
     },
     {
-      "Route": "MyCookBookApp.76hx9y59go.bundle.scp.css",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-76hx9y59go.gz",
+      "Route": "MyCookBookApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-o8q0bibfkh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001434720230"
+          "Quality": "0.001416430595"
         }
       ],
       "ResponseHeaders": [
@@ -21982,19 +21982,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "705"
         },
         {
           "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -22010,26 +22010,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
+          "Value": "W/\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "76hx9y59go"
-        },
-        {
-          "Name": "label",
-          "Value": "MyCookBookApp.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
         }
       ]
     },
     {
-      "Route": "MyCookBookApp.76hx9y59go.bundle.scp.css",
+      "Route": "MyCookBookApp.bundle.scp.css",
       "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyCookBookApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22039,7 +22031,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1666"
+          "Value": "1687"
         },
         {
           "Name": "Content-Type",
@@ -22047,11 +22039,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
+          "Value": "\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
+        }
+      ]
+    },
+    {
+      "Route": "MyCookBookApp.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-o8q0bibfkh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k="
+        }
+      ]
+    },
+    {
+      "Route": "MyCookBookApp.o8q0bibfkh.bundle.scp.css",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-o8q0bibfkh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001416430595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "705"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o8q0bibfkh"
+        },
+        {
+          "Name": "label",
+          "Value": "MyCookBookApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
+        }
+      ]
+    },
+    {
+      "Route": "MyCookBookApp.o8q0bibfkh.bundle.scp.css",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyCookBookApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22061,7 +22198,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "76hx9y59go"
+          "Value": "o8q0bibfkh"
         },
         {
           "Name": "label",
@@ -22069,13 +22206,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
         }
       ]
     },
     {
-      "Route": "MyCookBookApp.76hx9y59go.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-76hx9y59go.gz",
+      "Route": "MyCookBookApp.o8q0bibfkh.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-o8q0bibfkh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22084,7 +22221,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "705"
         },
         {
           "Name": "Content-Type",
@@ -22092,11 +22229,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22114,7 +22251,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "76hx9y59go"
+          "Value": "o8q0bibfkh"
         },
         {
           "Name": "label",
@@ -22122,18 +22259,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0="
+          "Value": "sha256-teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k="
         }
       ]
     },
     {
-      "Route": "MyCookBookApp.76hx9y59go.styles.css",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-76hx9y59go.gz",
+      "Route": "MyCookBookApp.o8q0bibfkh.styles.css",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-o8q0bibfkh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001434720230"
+          "Quality": "0.001416430595"
         }
       ],
       "ResponseHeaders": [
@@ -22143,15 +22280,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "705"
         },
         {
           "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22171,13 +22308,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
+          "Value": "W/\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "76hx9y59go"
+          "Value": "o8q0bibfkh"
         },
         {
           "Name": "label",
@@ -22185,12 +22322,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
         }
       ]
     },
     {
-      "Route": "MyCookBookApp.76hx9y59go.styles.css",
+      "Route": "MyCookBookApp.o8q0bibfkh.styles.css",
       "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MyCookBookApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22200,7 +22337,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1666"
+          "Value": "1687"
         },
         {
           "Name": "Content-Type",
@@ -22208,11 +22345,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
+          "Value": "\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22222,7 +22359,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "76hx9y59go"
+          "Value": "o8q0bibfkh"
         },
         {
           "Name": "label",
@@ -22230,13 +22367,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
         }
       ]
     },
     {
-      "Route": "MyCookBookApp.76hx9y59go.styles.css.gz",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-76hx9y59go.gz",
+      "Route": "MyCookBookApp.o8q0bibfkh.styles.css.gz",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-o8q0bibfkh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22245,7 +22382,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "705"
         },
         {
           "Name": "Content-Type",
@@ -22253,11 +22390,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22275,7 +22412,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "76hx9y59go"
+          "Value": "o8q0bibfkh"
         },
         {
           "Name": "label",
@@ -22283,155 +22420,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0="
-        }
-      ]
-    },
-    {
-      "Route": "MyCookBookApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-76hx9y59go.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001434720230"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "696"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
-        }
-      ]
-    },
-    {
-      "Route": "MyCookBookApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyCookBookApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1666"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
-        }
-      ]
-    },
-    {
-      "Route": "MyCookBookApp.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\n1vu4avcfy-76hx9y59go.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "696"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0="
+          "Value": "sha256-teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k="
         }
       ]
     },
     {
       "Route": "MyCookBookApp.styles.css",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-76hx9y59go.gz",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-o8q0bibfkh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001434720230"
+          "Quality": "0.001416430595"
         }
       ],
       "ResponseHeaders": [
@@ -22441,15 +22441,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "705"
         },
         {
           "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22469,13 +22469,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
+          "Value": "W/\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
         }
       ]
     },
@@ -22490,7 +22490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1666"
+          "Value": "1687"
         },
         {
           "Name": "Content-Type",
@@ -22498,11 +22498,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc=\""
+          "Value": "\"KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22512,13 +22512,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0Sn86D/Wjbr/UnpZaTIqOMhnPFAnQmAhcFFIF7ZjVcc="
+          "Value": "sha256-KJhiRg8bYfSkMWLGx9tBgofHyTaQsk/Wwvo4UJpVMz8="
         }
       ]
     },
     {
       "Route": "MyCookBookApp.styles.css.gz",
-      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-76hx9y59go.gz",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApp\\obj\\Debug\\net9.0\\compressed\\bl5n3gv7a1-o8q0bibfkh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22527,7 +22527,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "705"
         },
         {
           "Name": "Content-Type",
@@ -22535,11 +22535,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0=\""
+          "Value": "\"teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 02:31:19 GMT"
+          "Value": "Sat, 12 Apr 2025 03:28:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22557,7 +22557,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1ipNJKRPR+HLxAjCgV/3OmwnMkvkUhdWgxo44puXhS0="
+          "Value": "sha256-teOqvaIl29V1TrS+D8f+6BfhRTSQrXD6BmoHJT5j45k="
         }
       ]
     }

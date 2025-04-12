@@ -58,12 +58,13 @@ button.accept-policy {
   display: block;
 }
 
-header{
-  background-color: #000000;
+.navbar {
+  background-color: #57ff86 !important;
 }
 
-.navbar {
-  background-color: #000000 !important;
+.custom-navbar .nav-link {
+  color: #ffffff !important;
+
 }
 
 .footer {
