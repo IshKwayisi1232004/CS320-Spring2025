@@ -8,13 +8,14 @@ using System.Linq;
 using System.Threading.Tasks;
 namespace MyCookBookApi.Repositories
 {
+
     public class FirebaseDbRecipeRepository : IRecipeRepository
     {
         private readonly FirestoreDb _firestoreDb;
         private const string CollectionName = "Recipes";
         public FirebaseDbRecipeRepository()
         {
-            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "wwwroot", "mycookbookappdb-2025-firebase.json");
+            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "wwwroot", "mycookbookappdb-2025-firebase2.json");
             if (!File.Exists(path))
             {
                 throw new FileNotFoundException("Firebase service account key not found.", path);
@@ -24,7 +25,9 @@ namespace MyCookBookApi.Repositories
         }
         public List<Recipe> GetAllRecipes()
         {
+            Console.WriteLine("Called Firebase Get All Recipes");
             return GetAllRecipesAsync().GetAwaiter().GetResult();
+            Console.WriteLine("Completed Firebase Get All Recipes");
         }
         public Recipe GetRecipeById(string id)
         {

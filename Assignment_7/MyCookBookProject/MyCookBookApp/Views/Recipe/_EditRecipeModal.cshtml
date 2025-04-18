@@ -8,7 +8,7 @@
             </div>
 
             <!-- Modal Body -->
-            <div class="modal-body">
+            <div class="modal-body bg-white text-black">
                 <form id="editRecipeForm">
                     <input type="hidden" id="editRecipeId">
 
@@ -17,16 +17,16 @@
                         <div class="col-md-6 d-flex flex-column">
                             <div class="p-3 border rounded flex-fill">
                                 <div class="mb-3">
-                                    <label for="editRecipeName" class="form-label fw-bold">Recipe Name</label>
-                                    <input type="text" class="form-control" id="editRecipeName" required>
+                                    <label for="editRecipeName" class="form-label fw-bold" style="color: rgb(43, 0, 255)">Recipe Name</label>
+                                    <input type="text" class="form-control" id="editRecipeName" style="border: 2px solid rgb(0, 238, 255);"required>
                                 </div>
                                 <div class="mb-3">
-                                    <label for="editTagLine" class="form-label fw-bold">Tag Line</label>
-                                    <input type="text" class="form-control" id="editTagLine">
+                                    <label for="editTagLine" class="form-label fw-bold" style="color: rgb(43, 0, 255)">Tag Line</label>
+                                    <input type="text" class="form-control" id="editTagLine" style="border: 2px solid rgb(0, 238, 255);">
                                 </div>
                                 <div class="mb-3">
-                                    <label for="editSummary" class="form-label fw-bold">Summary</label>
-                                    <textarea class="form-control" id="editSummary" rows="3"></textarea>
+                                    <label for="editSummary" class="form-label fw-bold" style="color: rgb(43, 0, 255)">Summary</label>
+                                    <textarea class="form-control" id="editSummary" rows="3" style="border: 2px solid rgb(0, 238, 255);"></textarea>
                                 </div>
                             </div>
                         </div>
@@ -35,23 +35,23 @@
                             <div class="p-3 border rounded flex-fill">
                             <!-- Categories Dropdown -->
                             <div class="mb-3">
-                                <label class="form-label fw-bold">Categories</label>
+                                <label class="form-label fw-bold" style="color: rgb(43, 0, 255)">Categories</label>
                                 <div class="dropdown">
-                                    <button class="btn btn-light text-dark dropdown-toggle w-100 text-start custom-dropdown" type="button" id="editCategoryDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <button class="btn btn-light text-dark dropdown-toggle w-100 text-start custom-dropdown" type="button" id="editCategoryDropdown" data-bs-toggle="dropdown" aria-expanded="false" style="color: rgb(0, 238, 255); border: 2px solid rgb(0, 238, 255);">
                                         Select Categories
                                     </button>
-                                    <ul class="dropdown-menu w-100 overflow-auto custom-dropdown-menu" id="editCategoryList" style="max-height: 200px;">
-                                        <li><a class="dropdown-item" href="#" data-value="0">Breakfast</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="1">Lunch</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="2">Dinner</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="3">Dessert</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="4">Snack</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="5">Vegan</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="6">Vegetarian</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="7">GlutenFree</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="8">Keto</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="9">LowCarb</a></li>
-                                        <li><a class="dropdown-item" href="#" data-value="10">HighProtein</a></li>
+                                    <ul class="dropdown-menu w-100 overflow-auto custom-dropdown-menu" id="editCategoryList" style="max-height: 200px; background-color: rgb(181, 221, 253);">
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="0">Breakfast</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="1">Lunch</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="2">Dinner</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="3">Dessert</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="4">Snack</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="5">Vegan</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="6">Vegetarian</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="7">GlutenFree</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="8">Keto</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="9">LowCarb</a></li>
+                                            <li><a class="dropdown-item" href="#" style="color: rgb(43, 0, 255)" data-value="10">HighProtein</a></li>
                                     </ul>
                                 </div>
                                 <input type="hidden" id="editCategories" value="">
@@ -60,8 +60,8 @@
 
                             <!-- Ingredients Section -->
                             <div class="mb-3">
-                                <label for="editIngredients" class="form-label fw-bold">Ingredients (comma-separated)</label>
-                                <textarea class="form-control" id="editIngredients" rows="6"></textarea>
+                                <label for="editIngredients" class="form-label fw-bold" style="color: rgb(43, 0, 255)">Ingredients (comma-separated)</label>
+                                <textarea class="form-control" id="editIngredients" rows="6" style="border: 2px solid rgb(0, 238, 255);"></textarea>
                             </div>
                         </div>
                     </div>
@@ -69,15 +69,15 @@
                 <!-- Full Width Section for Instructions -->
                 <div class="p-3 border rounded mt-3">
                     <div class="mb-3">
-                        <label for="editInstructions" class="form-label fw-bold">Instructions</label>
-                        <textarea class="form-control" id="editInstructions" rows="5"></textarea>
+                        <label for="editInstructions" class="form-label fw-bold" style="color: rgb(43, 0, 255)">Instructions</label>
+                        <textarea class="form-control" id="editInstructions" rows="5" style="border: 2px solid rgb(0, 238, 255);"></textarea>
                     </div>
                 </div>
             </form>
         </div>
         <!-- Modal Footer -->
-        <div class="modal-footer">
-            <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Close</button>
+        <div class="modal-footer bg-black">
+            <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal" style= "color: rgb(255, 0, 251); border: 3px solid rgb(0, 149, 255); background-color: rgb(255, 255, 255);">Close</button>
             <button type="button" class="btn btn-warning" id="updateRecipe">UpdateRecipe</button>
         </div>
     </div>

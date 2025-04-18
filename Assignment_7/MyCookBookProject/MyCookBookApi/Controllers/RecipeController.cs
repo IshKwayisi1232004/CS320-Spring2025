@@ -17,6 +17,7 @@ namespace MyCookBookApi.Controllers{
         public ActionResult<IEnumerable<Recipe>> GetAllRecipes()
         {
             return Ok(_recipeService.GetAllRecipes());
+            // return Ok(null);
         }
         [HttpGet("{id}")]
         public ActionResult<Recipe> GetRecipeById(string id)
@@ -44,7 +45,7 @@ namespace MyCookBookApi.Controllers{
         }
 
         [HttpPost]
-        public ActionResult<Recipe> CreateRecipe([FromBody] Recipe recipe)
+        public ActionResult<Recipe> CreateRecipe([FromBody] Recipe recipe, [FromHeader(Name = "Authorization")] string authHeader)
         {
             if (recipe == null || string.IsNullOrWhiteSpace(recipe.Name))
             {
@@ -56,6 +57,9 @@ namespace MyCookBookApi.Controllers{
             _recipeService.AddRecipe(recipe);
             return CreatedAtAction(nameof(GetRecipeById), new { id = recipe.RecipeId }, recipe);
         }
+
+    
+
         [HttpPut("{id}")]
         public IActionResult UpdateRecipe(string id, [FromBody] Recipe recipe)
         {

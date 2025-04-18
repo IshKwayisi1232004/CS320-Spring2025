@@ -167,8 +167,6 @@ document.addEventListener("DOMContentLoaded", function () {
                             </div>
                             <div>
                                 <button class="btn btn-warning btn-sm" onclick="editRecipe('${recipe.recipeId}')">Edit</button>
-                            </div>
-                            <div>
                                 <button class="btn btn-danger btn-sm"onclick="deleteRecipe('${recipe.recipeId}')">Delete</button>
                             </div>
                         </div>

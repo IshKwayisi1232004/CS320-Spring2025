@@ -1,0 +1,63 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Debug MyCookBookApp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build MyCookBookApp",
+            "program": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApp",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApp/Views"
+            }
+        },
+        {
+            "name": "Debug MyCookBookApi",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build Assignment_7/MyCookBookProject/MyCookBookApi",
+            "program": "${workspaceFolder}/Assignment_7/MyCookBookApi/bin/Debug/net9.0/MyCookBookApi.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApi",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Debug MyCookBookApp.Tests",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build MyCookBookApp.Tests",
+            "program": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApp.Tests/bin/Debug/net9.0/MyCookBookApp.Tests.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApp.Tests",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Debug MyCookBookApi.Tests",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build MyCookBookApi.Tests",
+            "program": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApi.Tests/bin/Debug/net9.0/MyCookBookApi.Tests.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApi.Tests",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Launch Chrome with MyCookBookApp",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:5584",
+            "webRoot": "${workspaceFolder}/Assignment_7/MyCookBookProject/MyCookBookApp/wwwroot",
+            "sourceMaps": true
+        }        
+    ]
+}

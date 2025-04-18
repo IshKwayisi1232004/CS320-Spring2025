@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i3Dd5R+LBCFINS6pcxKej5xUxP0lQa3pJZrgM4VK+0A=",
+  "Hash": "D67PULeBwXYLWWHCVpBOo8ZoFpgENSJav2CDpAza9Cg=",
   "Source": "MyCookBookApi",
   "BasePath": "_content/MyCookBookApi",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\obj\\Debug\\net9.0\\compressed\\0ng0hubtnf-8dbzkdyw9g.gz",
+      "SourceId": "MyCookBookApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MyCookBookApi",
+      "RelativePath": "mycookbookappdb-2025-firebase2#[.{fingerprint=8dbzkdyw9g}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\wwwroot\\mycookbookappdb-2025-firebase2.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vy3s5kl0z9",
+      "Integrity": "6bezmrIv2uTvey23na/Qxu9dS2X0i5F7nHh9T4wC2Tw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\wwwroot\\mycookbookappdb-2025-firebase2.json"
+    },
     {
       "Identity": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\obj\\Debug\\net9.0\\compressed\\lalgul8rjz-mgrvi79w6f.gz",
       "SourceId": "MyCookBookApi",
@@ -57,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\mycookbookappdb-2025-firebase.json"
+    },
+    {
+      "Identity": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\wwwroot\\mycookbookappdb-2025-firebase2.json",
+      "SourceId": "MyCookBookApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\wwwroot\\",
+      "BasePath": "_content/MyCookBookApi",
+      "RelativePath": "mycookbookappdb-2025-firebase2#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8dbzkdyw9g",
+      "Integrity": "TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mycookbookappdb-2025-firebase2.json"
     }
   ],
   "Endpoints": [
@@ -85,7 +127,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 22:31:34 GMT"
+          "Value": "Tue, 15 Apr 2025 20:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -138,7 +180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 22:31:34 GMT"
+          "Value": "Tue, 15 Apr 2025 20:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -175,7 +217,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 22:31:34 GMT"
+          "Value": "Tue, 15 Apr 2025 20:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -222,7 +264,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 22:31:34 GMT"
+          "Value": "Tue, 15 Apr 2025 20:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -283,7 +325,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 22:31:34 GMT"
+          "Value": "Tue, 15 Apr 2025 20:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -328,7 +370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 22:31:34 GMT"
+          "Value": "Tue, 15 Apr 2025 20:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -355,6 +397,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-QGMXplbueZ8OEtC8ieStqL2zg0xDZ7g0uUJTNdoAPPk="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookappdb-2025-firebase2.8dbzkdyw9g.json",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\obj\\Debug\\net9.0\\compressed\\0ng0hubtnf-8dbzkdyw9g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000594883998"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1680"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bezmrIv2uTvey23na/Qxu9dS2X0i5F7nHh9T4wC2Tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 19:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dbzkdyw9g"
+        },
+        {
+          "Name": "label",
+          "Value": "mycookbookappdb-2025-firebase2.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookappdb-2025-firebase2.8dbzkdyw9g.json",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\wwwroot\\mycookbookappdb-2025-firebase2.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 19:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dbzkdyw9g"
+        },
+        {
+          "Name": "label",
+          "Value": "mycookbookappdb-2025-firebase2.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookappdb-2025-firebase2.8dbzkdyw9g.json.gz",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\obj\\Debug\\net9.0\\compressed\\0ng0hubtnf-8dbzkdyw9g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bezmrIv2uTvey23na/Qxu9dS2X0i5F7nHh9T4wC2Tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 19:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dbzkdyw9g"
+        },
+        {
+          "Name": "label",
+          "Value": "mycookbookappdb-2025-firebase2.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bezmrIv2uTvey23na/Qxu9dS2X0i5F7nHh9T4wC2Tw="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookappdb-2025-firebase2.json",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\obj\\Debug\\net9.0\\compressed\\0ng0hubtnf-8dbzkdyw9g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000594883998"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1680"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bezmrIv2uTvey23na/Qxu9dS2X0i5F7nHh9T4wC2Tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 19:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookappdb-2025-firebase2.json",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\wwwroot\\mycookbookappdb-2025-firebase2.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 19:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE="
+        }
+      ]
+    },
+    {
+      "Route": "mycookbookappdb-2025-firebase2.json.gz",
+      "AssetFile": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\obj\\Debug\\net9.0\\compressed\\0ng0hubtnf-8dbzkdyw9g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bezmrIv2uTvey23na/Qxu9dS2X0i5F7nHh9T4wC2Tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 19:58:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bezmrIv2uTvey23na/Qxu9dS2X0i5F7nHh9T4wC2Tw="
         }
       ]
     }

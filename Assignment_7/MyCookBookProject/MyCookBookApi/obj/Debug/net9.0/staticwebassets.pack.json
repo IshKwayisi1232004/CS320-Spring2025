@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\mycookbookappdb-2025-firebase.json"
     },
     {
+      "Id": "C:\\Users\\spyro\\OneDrive\\Desktop\\CS320\\CS320-Spring2025\\Assignment_7\\MyCookBookProject\\MyCookBookApi\\wwwroot\\mycookbookappdb-2025-firebase2.json",
+      "PackagePath": "staticwebassets\\mycookbookappdb-2025-firebase2.json"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyCookBookApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

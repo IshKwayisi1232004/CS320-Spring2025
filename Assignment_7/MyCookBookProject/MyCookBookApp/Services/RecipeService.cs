@@ -14,7 +14,8 @@ namespace MyCookBookApp.Services
         public RecipeService(HttpClient httpClient, IConfiguration configuration)
         {
             _httpClient = httpClient;
-            _baseUrl = configuration["ApiSettings:BaseUrl"];
+            _baseUrl = configuration["ApiSettings:BaseUrl"] 
+            ?? throw new ArgumentNullException("ApiSettings:BaseUrl", "Base URL configuration is missing.");
         }
         public async Task<List<Recipe>> GetRecipesAsync()
         {

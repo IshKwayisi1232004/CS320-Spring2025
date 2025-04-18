@@ -4,13 +4,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookappdb-2025-firebase.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2396"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 22:31:34 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2396"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 20:05:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MyCookBookApi/mycookbookappdb-2025-firebase.mgrvi79w6f.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookappdb-2025-firebase.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mgrvi79w6f"},{"Name":"integrity","Value":"sha256-xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ="},{"Name":"label","Value":"_content/MyCookBookApi/mycookbookappdb-2025-firebase.json"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2396"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 22:31:34 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2396"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022xvovT8\u002BpiYcDF9//t4v00CvytRP8ZguorwoFt/6lYmQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 20:05:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MyCookBookApi/mycookbookappdb-2025-firebase2.8dbzkdyw9g.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookappdb-2025-firebase2.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8dbzkdyw9g"},{"Name":"integrity","Value":"sha256-TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE="},{"Name":"label","Value":"_content/MyCookBookApi/mycookbookappdb-2025-firebase2.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2400"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 19:58:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MyCookBookApi/mycookbookappdb-2025-firebase2.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mycookbookappdb-2025-firebase2.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2400"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022TCx1OKA/Roo0l2mxN54QG30CUHpylq2LwQS0zsolLUE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 19:58:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
